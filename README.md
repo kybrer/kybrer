@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DiamondsDev
-- 👀 I’m interested in Unity Engine
+- 👋 Yo, I’m @DiamondsDev
+- 👀 I’m making stuff in Unity Engine
 - 🌱 I’m currently learning C#
 - 📫 discord: Diamonds#0054
 
