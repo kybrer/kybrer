@@ -1,6 +1,6 @@
 - 👋 Yo, I’m @KyberCrystals
 - 👀 I’m making stuff in Unity Engine and Roblox Studio
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and luau
 - 📫 discord: kybrer
 
 <!---
