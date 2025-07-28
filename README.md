@@ -1,4 +1,5 @@
 - 👋 Yo, I’m @kybrer
+- I am too lazy to use source control
 - 👀 I’m making stuff in Unity Engine and Roblox Studio
 - 🌱 I’m currently learning C# and luau
 - 📫 discord: kybrer
